@@ -1,2 +1,2 @@
-# openticket
-openticket
+# Openticket
+Sistema de tickets opensource
